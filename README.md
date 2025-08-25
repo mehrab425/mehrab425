@@ -25,10 +25,11 @@
 ---
 
 ## Courses & Certificates
-- Solidity Basics (Faradars)  
-- Advanced Solidity (Faradars)  
-- Project-based Solidity (Faradars)  
-- Blockchain & Crypto Fundamentals (Faradars)  
+- Solidity Basics 
+- Advanced Solidity   
+- Project-based Solidity   
+- Blockchain & Crypto Fundamentals
+- smartContract mastring
 
 ---
 
