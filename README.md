@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mehrab 👋
 
-<!--
-**mehrab425/mehrab425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Smart Contract & Solidity Developer**  
+💻 Building ERC20/ERC721 tokens, exploring DeFi & NFT projects  
+🛠 Hands-on with OpenZeppelin, Remix, and Web3.js  
+🎯 Goal: Freelancing & real-world blockchain projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Solidity / Smart Contracts**  
+- ERC20, ERC721, DeFi basics  
+- Web3.js / Front-end integration  
+- Git, GitHub, Version Control  
+
+---
+
+## Projects
+1. **MyToken ERC20** – Fully functional token with mint & burn features  
+2. **Voting Contract** – On-chain voting system with candidate management  
+3. **Presale Contract** – ICO / Token sale contract with contributions tracking  
+
+*Links to deployed contracts or repos can be added here.*
+
+---
+
+## Courses & Certificates
+- Solidity Basics (Faradars)  
+- Advanced Solidity (Faradars)  
+- Project-based Solidity (Faradars)  
+- Blockchain & Crypto Fundamentals (Faradars)  
+
+---
+
+📫 Connect with me: [X/Twitter](https://twitter.com/yourhandle)
