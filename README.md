@@ -15,22 +15,70 @@
 
 ---
 
-## Projects
-1. **MyToken ERC20** – Fully functional token with mint & burn features  
-2. **Voting Contract** – On-chain voting system with candidate management  
-3. **Presale Contract** – ICO / Token sale contract with contributions tracking  
+## PROJECT
 
-*Links to deployed contracts or repos can be added here.*
+ERC20 Token – Fully functional ERC20 token with mint & burn features
+
+Built with Solidity using OpenZeppelin
+
+Deployable on Testnet / Mainnet
+
+Integrated with MetaMask for transfers and balance checks
+
+
+
+ERC1155 NFT Game (MyNFTgame) – Multi-token NFT collection for gaming
+
+Deployed on Holesky Testnet & Mainnet
+
+NFT metadata hosted on IPFS
+
+Integrated with Opensea for collection display
+
+Implemented ERC1155 standard for multiple token types in one contract
+
+
+ERC721 NFT Collection – Single-token collectible NFTs
+
+Developed with Solidity, OpenZeppelin ERC721
+
+Metadata stored on IPFS, minting through MetaMask
+
+Published on Opensea Mainnet
+
+
+Voting Contract – On-chain voting system with candidate management
+
+Implemented secure voting with Solidity
+
+Candidate addition, vote casting, and result tracking on-chain
+
+Deployable on Testnet for experimentation
+
+
+Presale / ICO Contract – Token sale contract with contribution tracking
+
+Allows participants to buy tokens in a presale
+
+Tracks contributions and handles token distribution
+
+Written in Solidity, compatible with OpenZeppelin libraries
+
+Deployable on Ethereum testnets and mainnet
 
 ---
 
-## Courses & Certificates
-- Solidity Basics 
-- Advanced Solidity   
-- Project-based Solidity   
-- Blockchain & Crypto Fundamentals
-- smartContract mastring
+##Courses & Certificates
 
+Solidity Basics – Introduction to smart contract development and Ethereum fundamentals
+
+Advanced Solidity – Deep dive into ERC20, ERC721, ERC1155, and contract optimization
+
+Project-based Solidity – Hands-on projects including NFT collections, voting contracts, and token sales
+
+Blockchain & Crypto Fundamentals – Understanding blockchain technology, Ethereum network, and decentralized applications
+
+Smart Contract Mastering – Best practices, security patterns, and real-world deployment on testnets
 ---
 
 📫 Connect with me:
