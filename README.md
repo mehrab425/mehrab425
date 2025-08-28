@@ -33,4 +33,6 @@
 
 ---
 
-📫 Connect with me: [X/Twitter](https://x.com/MehrabSaleh4)
+📫 Connect with me:
+[X/Twitter](https://x.com/MehrabSaleh4)
+[Instagram](https://www.instagram.com/mehrab_saleh4/)
