@@ -1,19 +1,22 @@
 # Hi, I'm Mehrab 👋
 
-🚀 **Smart Contract & Solidity Developer**  
-💻 Building ERC20/ERC721 tokens, exploring DeFi & NFT projects  
+🚀 **Smart Contract & Solidity & NFT Developer**  
+💻 Building ERC20/ERC721/ERC1155 tokens & NFT, exploring DeFi & NFT projects  
 🛠 Hands-on with OpenZeppelin, Remix, and Web3.js  
 🎯 Goal: Freelancing & real-world blockchain projects
 
 ---
 
 ## Skills
-- **Solidity / Smart Contracts**  
-- ERC20, ERC721, DeFi basics  
-- Web3.js / Front-end integration  
-- Git, GitHub, Version Control  
 
----
+Solidity / Smart Contracts – Writing, testing, and deploying ERC20, ERC721, and ERC1155 contracts
+
+NFT & DeFi Development – ERC721/ERC1155 NFT collections, token sales, and basic DeFi protocols
+
+
+Blockchain Fundamentals – Understanding Ethereum, testnets (Holesky, Sepolia), mainnet deployment, IPFS integration
+
+Project Management & Documentation – Structuring projects, writing README, and preparing deployable code for clients or portfolio
 
 ## PROJECT
 
