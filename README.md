@@ -36,3 +36,4 @@
 📫 Connect with me:
 [X/Twitter](https://x.com/MehrabSaleh4)
 [Instagram](https://www.instagram.com/mehrab_saleh4/)
+[Linkedin](https://www.linkedin.com/in/mehrab-saleh-512549381)
