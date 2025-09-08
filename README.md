@@ -30,9 +30,9 @@ Here you'll find examples of:
 
 ## 🔹 Getting Started
 1. Clone this repository:
-```bash
 
----
+
+
 
 📫 Connect with me:
 [X/Twitter](https://x.com/MehrabSaleh4)
